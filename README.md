@@ -1,1 +1,2 @@
-# hw01
+# Biography
+## Jose Eos Trinidad
